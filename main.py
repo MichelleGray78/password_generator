@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
 import random
-from turtle import bgcolor
 import pyperclip
 import json
 
